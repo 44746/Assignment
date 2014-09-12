@@ -1,6 +1,6 @@
-#john bain
+#George West
 #variable improvement exercise
-#05-09-12
+#14-09-12
 
 import math
 
